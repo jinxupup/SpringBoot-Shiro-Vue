@@ -83,3 +83,7 @@ npm run dev
 
 ## 分配权限页面效果
 ![分配权限页面](http://ots7yt7am.bkt.clouddn.com/blog/role_permission.png)
+
+shiro的相关知识:
+https://blog.csdn.net/xiaoliuliu2050/article/details/54911480
+https://blog.csdn.net/weide_java/article/details/53793769
